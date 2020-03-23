@@ -14,6 +14,7 @@ h2 {
 
 p {
   font-size: 17px;
+  padding-left: .5em;
 }
 
 a {
@@ -37,13 +38,17 @@ a:active {
   text-decoration: underline;
 }
 
+ol {
+  font-size: 18px;
+}
+
 .footer {
    position: static;
    left: 0;
    bottom: 0;
    width: 100%;
    color: red;
-   font-size: 15px;
+   font-size: 12px;
    color: white;
    text-align: right;
    padding-bottom: 1em;
