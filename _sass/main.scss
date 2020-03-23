@@ -36,3 +36,14 @@ a:hover {
 a:active {
   text-decoration: underline;
 }
+
+.footer {
+   position: static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: red;
+   font-size: 11px;
+   color: white;
+   text-align: right;
+}
