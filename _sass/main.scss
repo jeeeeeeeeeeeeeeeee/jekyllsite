@@ -1,0 +1,38 @@
+.current {
+  color: green;
+}
+body {
+  background-color: MintCream;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: SlateGrey;
+  text-align: center;
+  font-size: 20px;
+}
+
+p {
+  font-size: 15px;
+}
+
+a {
+  color: SlateGrey
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-size: 100px;
+}
+
+a:active {
+  text-decoration: underline;
+}

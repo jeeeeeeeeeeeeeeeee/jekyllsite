@@ -1,0 +1,4 @@
+- name: :^B
+  link: /
+- name: About
+  link: /about.html
