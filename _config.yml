@@ -1,4 +1,4 @@
-baseurl: "jekyllsite"
+baseurl: "jesssi.net"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
