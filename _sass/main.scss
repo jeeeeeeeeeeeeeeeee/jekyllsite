@@ -46,4 +46,10 @@ a:active {
    font-size: 11px;
    color: white;
    text-align: right;
+   a {
+     color: red;
+   }
+   a:hover {
+     font-size:40px;
+   }
 }
