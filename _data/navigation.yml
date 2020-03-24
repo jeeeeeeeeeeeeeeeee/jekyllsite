@@ -4,5 +4,7 @@
   link: /film.html
 - name: Words
   link: /words.html
+- name: Other
+  link: /other.html
 - name: About
   link: /about.html

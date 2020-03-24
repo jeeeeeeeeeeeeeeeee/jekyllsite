@@ -38,6 +38,11 @@ a:active {
   text-decoration: underline;
 }
 
+iframe {
+  border: 5px solid DarkSlateGrey;
+  border-radius: 5px;
+}
+
 .footer {
    position: static;
    left: 0;
