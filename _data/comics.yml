@@ -1,0 +1,16 @@
+- name: 1
+  link: /comicone.html
+- name: 2
+  link: /comictwo.html
+- name: 3
+  link: /comicthree.html
+- name: 4
+  link: /comicfour.html
+- name: 5
+  link: /comicfive.html
+- name: 6
+  link: /comicsix.html
+- name: 7
+  link: /comicseven.html
+- name: 4
+  link: /comiceight.html
