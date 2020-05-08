@@ -16,8 +16,6 @@
 body {
   background-color: MintCream;
   font-family: "Roboto Mono", Helvetica, sans-serif;
-  padding-left: 5vw;
-  padding-right: 25vw;
 }
 
 h2 {
@@ -29,6 +27,8 @@ h2 {
 p {
   font-size: 17px;
   padding-left: .5em;
+  padding-left: 5vw;
+  padding-right: 25vw;
 }
 
 a {
@@ -45,7 +45,7 @@ a:visited {
 
 a:hover {
   text-decoration: underline;
-  font-size: 70px;
+  font-size: 20px;
 }
 
 a:active {
@@ -58,7 +58,7 @@ iframe {
 }
 
 img.resize {
-  max-width:59%;
+  max-width:90vw;
 }
 
 img.comix {
