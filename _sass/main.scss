@@ -57,6 +57,12 @@ iframe {
   border-radius: 6px;
 }
 
+img{
+        max-width: 90vw;
+        max-height: 110vw;
+        display: block; /* remove extra space below image */
+    }
+
 img.resize {
   max-width:90vw;
 }
