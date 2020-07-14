@@ -10,6 +10,7 @@ body {
 
 #banner {
   font-size:50vw;
+  background: rgba(245, 255, 250, 0);
 }
 h2 {
   color: SlateGrey;
@@ -63,10 +64,6 @@ img.resize {
 img.comix {
   max-height: 90%;
   max-width: 250%;
-}
-
-.transparentbackground {
-  background: rgba(245, 255, 250, 0)
 }
 
 .footer {
