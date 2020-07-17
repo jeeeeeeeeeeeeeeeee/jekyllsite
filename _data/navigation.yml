@@ -1,5 +1,3 @@
-- name: :^B
-  link: /
 - name: Film
   link: /film.html
 - name: Words
